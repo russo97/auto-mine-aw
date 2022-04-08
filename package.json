@@ -1,0 +1,35 @@
+{
+  "name": "alarm",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-countdown": "^1.1.5",
+    "@waxio/waxjs": "0.0.15",
+    "atomicassets": "^1.2.2",
+    "core-js": "^3.6.5",
+    "eosjs": "^21.0.4",
+    "fetch-retry": "^4.1.1",
+    "js-cookie": "^2.2.1",
+    "text-encoding": "^0.7.0",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "int64-buffer": "^1.0.1",
+    "isomorphic-fetch": "^3.0.0",
+    "jquery": "^3.6.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
